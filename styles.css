@@ -1,0 +1,40 @@
+div {
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+body {
+    background-color: #99ddff;
+    text-align: center;
+}
+
+.inlineimg {
+    display: inline;
+    padding: 10px;
+}
+
+.qbox {
+    height: 300 px;
+    width: 50 px;
+    margin: auto;
+    background: white;
+    border-radius: 30px;
+    display: block;
+}
+
+#num1 {
+
+}
+
+#operator {
+
+}
+
+#num2 {
+
+}
+
+#line {
+
+}
