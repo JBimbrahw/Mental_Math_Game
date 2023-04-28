@@ -1,7 +1,7 @@
 # MathGame
 
 This is a mental math computer game
--Basic arithmetic: addition, subtraction, multiplication and division
+-> Basic arithmetic: addition, subtraction, multiplication and division
 
 Its functionality and usage is similar to the "Mad Minute".
 
